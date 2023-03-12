@@ -3,7 +3,7 @@
 int main(void){
 
 
-printf("Hello world! \n");
+printf("Ciao mondo! \n");
 return 0;
 
 }  
